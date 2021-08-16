@@ -34,7 +34,7 @@ header{
     
   height: 100vh;
   width: 150vh;
-    background-image:url(/bgc2.png  ) ;
+    background-image:url(bgc2.png  ) ;
    
     background-repeat: no-repeat;
     background-position: right;
@@ -93,13 +93,13 @@ header{
     text-align: left;
 }
 .education{
-    background-image: url(/check.png);
+    background-image: url(check.png);
     background-repeat: no-repeat;
     height: 100vh;
     background-position-x: 600px;
 }
 .education li{
-    list-style-image: url(/baseline_school_black_24dp.png);
+    list-style-image: url(baseline_school_black_24dp.png);
     text-align: left;
     font-family: 'Lora', serif;
     font-size: 20.3px;
@@ -166,7 +166,7 @@ header{
     font-size: 25px;
  }
  .contact{
-     background-image: url(/contact.png);
+     background-image: url(contact.png);
      background-position:20vw;
      background-position: right;
      background-repeat: no-repeat;
@@ -250,7 +250,7 @@ header{
     }
     
 .education li{
-    list-style-image: url(/baseline_school_black_24dp.png);
+    list-style-image: url(baseline_school_black_24dp.png);
     text-align: right;
     font-family: 'Lora', serif;
     font-size: 20.3px;
